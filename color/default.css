@@ -1,0 +1,39 @@
+
+a,a:hover {
+	color: green;
+}
+
+.intro .page-scroll a:hover {
+	color: green;
+}
+
+.icon:hover .fa{
+	color: green;
+}
+
+ul.nav li a:hover {
+	color: green;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: green;
+}
+
+.bg-skin {
+	background: green;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: green;
+}
+
+footer {
+    background-color: darkred;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: green;
+  border-color: green;
+}
