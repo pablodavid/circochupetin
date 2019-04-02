@@ -29,13 +29,26 @@ h6 {
     font-weight: 400;
     color: #444;
 }
-
+h7{
+	color: #242424;
+}
+he1{
+	color: black;
+}
+he2{
+	color: red;
+}
+he3{
+	color: gold;
+}
+he4{
+	color: green;
+}
 blockquote {
 	font-family: Georgia, arial, sans-serif;
-	color: black;
-	font-size: 20px;
+	color: #242424;
+	font-size: 16px;
 }
-
 p {
     margin: 0 0 20px;
     font-size: 16px;
