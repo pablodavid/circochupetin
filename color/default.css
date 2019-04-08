@@ -1,5 +1,8 @@
 
-a,a:hover {
+a {
+	color: black;
+}
+a:hover {
 	color: green;
 }
 
@@ -29,7 +32,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 
 footer {
-    background-color: darkred;
+    background-color: #E70003;
 }
 
 .btn-skin {
